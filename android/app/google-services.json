@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942710309196",
+    "firebase_url": "https://blab-82406.firebaseio.com",
+    "project_id": "blab-82406",
+    "storage_bucket": "blab-82406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942710309196:android:aee589c4c32bfdae",
+        "android_client_info": {
+          "package_name": "com.blab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942710309196-l9qr6um864skqd1095memja6vrau2u27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blab",
+            "certificate_hash": "a9936d5b9c051a220b2146e9a539c9ecf0550c95"
+          }
+        },
+        {
+          "client_id": "942710309196-8c9du54uvprloc3778iamo8rrc2rlqoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xbIoWxAs9smLxA9oyzBlJ7B93iIB5Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942710309196-8c9du54uvprloc3778iamo8rrc2rlqoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942710309196-giccb31p6hil1a306o6jgj3prtsfl88i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
